@@ -16,3 +16,6 @@ var studentIdOne = student1.id;
 console.log(studentIdOne);
 console.log(student1.name);
 console.log(student2);
+//input properrty
+student2.age = 31;
+console.log(student2);
